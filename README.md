@@ -18,7 +18,7 @@ git clone https://github.com/0c34/govwa.git
 git pull (to update)
 
 ```
-#### Install dependency packages
+#### Install dependency packages 
 
 ```
 go mod download 
