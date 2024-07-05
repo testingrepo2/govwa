@@ -9,7 +9,7 @@ If you didn't have golang installed on your system. first, install it using auto
 
 Follow the instruction which is provided by the author and install golang depending on your Operating System Architecture.
 
-If successfully installed you would have directory 'go' in your home directory. the go directory has three subdirectory (bin, pgk, src). switch to src directory then clone govwa repository. 
+If successfully installed you would have directory 'go' in your home directory. the go directory has three subdirectory (bin, pgk, src). switch to src directory then clone govwa repository.
 
 ```
 git clone https://github.com/0c34/govwa.git
