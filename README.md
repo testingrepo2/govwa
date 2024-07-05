@@ -5,7 +5,7 @@ GoVWA (Go Vulnerable Web Application) is a web application developed to help the
 #### How To Install GoVWA
 ---
 #### Installing golang
-If you didn't have golang installed on your system. first, install it using automation script from https://github.com/canha/golang-tools-install-script.
+If you didn't have golang installed on your system. first, install it using automation script from https://github.com/canha/golang-tools-install-script. 
 
 Follow the instruction which is provided by the author and install golang depending on your Operating System Architecture.
 
